@@ -39,6 +39,8 @@ $ yarn start
 
 Now you're ready to code!
 
+Open up ```/src/App.js```
+
 Here's what that file looks like to start:
 
 ```javascript
